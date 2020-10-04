@@ -14,3 +14,5 @@ To run this personal health assistant on your PC,save the jupyter notebook and t
 NOTE1:The database uploaded is quite small and this is just for the purpose of demo.We have created this database ourselves.For final product(which could be an app)we can create a bigger database with accurate symptoms and classifications of diseases,so that every person could make use of this app.
 
 NOTE 2: Due to time constraints we could implement the project in jupyter notebook only.Given adequate time,we can overcome these steps of downloading these files and chromedriver and changing the path as it would be little time consuming.Instead,we can integrate all these things in an app and all these things would be integrated in the back-end and the user would be required to download only an app instead of multiple files.
+
+LINK TO THE PROJECT VIDEO : https://drive.google.com/file/d/1kuH6xAQrAkSURtXuyYVu9DjzMFt45u1Q/view?usp=sharing
